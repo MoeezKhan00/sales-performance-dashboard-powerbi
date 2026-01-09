@@ -31,13 +31,13 @@ This project presents an interactive **Sales Performance Dashboard** built using
 ---
 
 ## 📂 Dataset
-- **Sample Superstore Dataset**
+- **Sample Superstore Dataset - Kaggle**
 - Public dataset used for learning and portfolio purposes
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+
 
 ---
 
@@ -45,8 +45,8 @@ This project presents an interactive **Sales Performance Dashboard** built using
 **Your Name**  
 Power BI Developer | Data Analyst  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile  
-🔗 GitHub: https://github.com/your-username
+🔗 LinkedIn: https://www.linkedin.com/in/moeez-khan-69b16a238/
+🔗 GitHub: https://github.com/MoeezKhan00
 
 ---
 
