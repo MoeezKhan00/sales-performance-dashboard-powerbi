@@ -26,7 +26,7 @@ This project presents an interactive **Sales Performance Dashboard** built using
 ---
 
 ## 🎥 Dashboard Walkthrough Video
-[Click here to watch the dashboard demo](sales_dashboard.mp4)
+[Click here to watch the dashboard demo](sales_dashboard.gif)
 
 ---
 
