@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project presents an interactive **Sales Performance Dashboard** built using **Power BI**. The dashboard analyzes key business metrics such as sales, profit, profit margin, discounts, and product performance to support data-driven decision-making.
 
+## 📷 Dashboard Preview
+![Dashboard Preview](sales-dashboard.png)
+
 ---
 
 ## 🎯 Objectives
@@ -36,14 +39,13 @@ This project presents an interactive **Sales Performance Dashboard** built using
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Preview](sales-dashboard.png)
+
 
 
 ---
 
 ## 👤 Author
-**Your Name**  
+**Moeez Khan**  
 Power BI Developer | Data Analyst  
 
 🔗 LinkedIn: https://www.linkedin.com/in/moeez-khan-69b16a238/
