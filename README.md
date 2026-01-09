@@ -26,8 +26,9 @@ This project presents an interactive **Sales Performance Dashboard** built using
 ---
 
 ## 🎥 Dashboard Walkthrough Video
-[Click here to watch the dashboard demo](dashboard-demo.mp4)
+[Click here to watch the dashboard demo](sales_dashboard.mp4)
 
+---
 
 ## 🛠 Tools & Technologies
 - Power BI
@@ -42,9 +43,6 @@ This project presents an interactive **Sales Performance Dashboard** built using
 - Public dataset used for learning and portfolio purposes
 
 ---
-
-
-
 
 ---
 
