@@ -41,8 +41,7 @@ This project presents an interactive **Sales Performance Dashboard** built using
 ## 📂 Dataset
 - **Sample Superstore Dataset - Kaggle**
 - Public dataset used for learning and portfolio purposes
-
----
+- Link: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
 
 ---
 
