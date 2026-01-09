@@ -37,7 +37,7 @@ This project presents an interactive **Sales Performance Dashboard** built using
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](sales dashboard.png)
+![Dashboard Preview](sales-dashboard.png)
 
 
 ---
